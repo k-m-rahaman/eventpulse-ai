@@ -76,6 +76,8 @@ npm install
 
 # 4. Start local development server
 npm run dev
-Visit http://localhost:5173/ in your browser.🌐 Live DeploymentsLive Production URL: https://eventpulse-ai.vercel.appBuilt for: Hack2Skill Virtual: PromptWars — Challenge 5Engine: Google Gemini 2.5 Flash API with Local Deterministic Simulation Fallback<div align="center">
+Visit http://localhost:5173/ in your browser.
+🌐 Live DeploymentsLive Production URL: https://eventpulse-ai-five.vercel.app/
+Built for: Hack2Skill Virtual: PromptWars — Challenge 5Engine: Google Gemini 2.5 Flash API with Local Deterministic Simulation Fallback<div align="center">
 <sub>Built with ❤️ by Kazi Mustafijur for Hack2Skill Virtual PromptWars 2026.</sub>
 </div>
